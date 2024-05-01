@@ -81,7 +81,7 @@ def main():
         
         Streamlit - Biopython - Pandas
         
-        Email: yassine.ouchen2021@gmail.com
+        Email: ouchen.yassine.umi@gmail.com
         LinkedIn: [Click Here](https://www.linkedin.com/in/yassine-ouchen-be)
         ''')
         st.header('About BLAST-Streamlit')
